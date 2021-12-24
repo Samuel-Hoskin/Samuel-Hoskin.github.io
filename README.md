@@ -1,13 +1,23 @@
 # Welcome
 
-Hi there 👋 My name is Sam and I make thinks that seek to make things easy! Life is hard as it is, online services should not be!
+Hi there 👋 My name is Sam and I make thinks! 
 
-Follow me making things on GitHub.
+# Projects
 
-# Curent Projects
+Most of my projects come from me going "... that would be really useful thing" and then trying to build it. I 
 
-My Current projects center around my work, being a Civil Servent for the UK Goverment.
+### Live Projects
 
 ## Civil Service Behaviour Page
 
 ## Civil Service Acroynm Buster
+
+### 'In the Works' Projects
+
+## Air Quality Moniter
+
+## Network Maintainer
+
+## Coffee Roulette
+
+## CS Network / Community List
